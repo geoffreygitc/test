@@ -4,4 +4,5 @@
 ``` bash
 git init 
 git remote add origin ssh_repo
+test push 2
 ```
